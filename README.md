@@ -11,7 +11,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="power-chainsaw-man-power.gif">
+    <img align="left" height="250" alt="coding-time" src="tumblr_e3f936ccd175d690c47878dc93f8cec4_7ba23f9f_640.gif">
  <h1 align="center">Main skills <3</h1>
  <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
    </div>
