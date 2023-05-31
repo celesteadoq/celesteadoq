@@ -11,12 +11,15 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
- ### Main skills:
+    <img align="left" height="250" alt="coding-time" src="power-chainsaw-man-power.gif">
+ <h1 align="center">Main skills <3</h1>
  <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-
-### Studying in this moment:
+   </div>
+    
+<h1 align="center">Studying in this moment</h1>
 <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-
+   </div>
+  
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d60f6c&height=120&section=footer"/>
