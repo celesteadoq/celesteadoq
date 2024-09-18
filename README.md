@@ -7,13 +7,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celesteadoq&layout=compact&hide_border=true&title_color=d60f6ctext_color=ff91a4&bg_color=0d1117" />
 </div>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/b6/70/6f/b6706f387373d0a23a19519676f06a5a.gif"  />
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=celesteadoq&bg_color=000000&color=d11570&line=f81683&point=d1cccc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="tumblr_e3f936ccd175d690c47878dc93f8cec4_7ba23f9f_640.gif">
+    <img align="right" height="150" src="https://i.pinimg.com/originals/b6/70/6f/b6706f387373d0a23a19519676f06a5a.gif"  />
  <h1 align="center">Main skills <3</h1>
  <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
    </div>
