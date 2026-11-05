@@ -3,15 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6122b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David+Vilas;I'm+20+years+old;I'm+from+Brazil;I'm+studying+Software+Engineering;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=celesteadoq&theme=dracula&hide_border=false" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=celesteadoq&background=000000&border=e6122b&stroke=e6122b&ring=e6122b&fire=e6122b&currStreakNum=e6122b&sideNums=e6122b&currStreakLabel=e6122b&sideLabels=ffffff&dates=ffffff" alt="streak stats" />
 
   <br><br>
 
   <img src="https://ghchart.rshah.org/e6122b/celesteadoq" alt="contribuições" width="600" />
-
-  <br><br>
-
-  <img src="https://raw.githubusercontent.com/celesteadoq/celesteadoq/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/b6/70/6f/b6706f387373d0a23a19519676f06a5a.gif" />
@@ -36,16 +32,16 @@
 
 <div align="left">
   <a href="https://www.instagram.com/david_adoq/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000000&logoColor=e6122b&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   <a href="https://discord.com/users/celesteadoq" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000000&logoColor=e6122b&style=for-the-badge" height="35" alt="discord logo" />
   </a>
   <a href="mailto:david.vilas.gomes@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000000&logoColor=e6122b&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/david-vilas-boas-gomes-437450268/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=e6122b&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 
