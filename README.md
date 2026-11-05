@@ -3,19 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6122b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David+Vilas;I'm+20+years+old;I'm+from+Brazil;I'm+studying+Software+Engineering;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <div data-importer="stats" align="center">
-    <img src="https://raw.githubusercontent.com/celesteadoq/celesteadoq/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-    <br>
-    <img src="https://raw.githubusercontent.com/celesteadoq/celesteadoq/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-  </div>
+  <img src="https://streak-stats.demolab.com?user=celesteadoq&theme=dracula&hide_border=false" alt="streak stats" />
 
-  <br>
+  <br><br>
 
-  [![David's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=celesteadoq&bg_color=000000&color=e6122b&line=e6122b&point=d1cccc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="https://ghchart.rshah.org/e6122b/celesteadoq" alt="contribuições" width="600" />
 
-  <br>
+  <br><br>
 
-  <img data-importer="snake" src="https://raw.githubusercontent.com/celesteadoq/celesteadoq/snake-output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/celesteadoq/celesteadoq/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/b6/70/6f/b6706f387373d0a23a19519676f06a5a.gif" />
@@ -34,26 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-</div>
-
-###
-
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@celesteadoq/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@celesteadoq/0" alt="Medium post 1" />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@celesteadoq/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@celesteadoq/1" alt="Medium post 2" />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@celesteadoq/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@celesteadoq/2" alt="Medium post 3" />
-  </a>
-</div>
-
-###
-
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played" />
 </div>
 
 ###
