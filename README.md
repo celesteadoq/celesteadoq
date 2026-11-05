@@ -3,8 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e6122b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+David+Vilas;I'm+20+years+old;I'm+from+Brazil;I'm+studying+Software+Engineering;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=celesteadoq&show_icons=true&count_private=true&hide_border=true&title_color=e6122b&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="David Vilas github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=celesteadoq&layout=compact&hide_border=true&title_color=e6122b&text_color=e6122b&bg_color=0d1117" alt="Linguagens mais usadas" />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/celesteadoq/celesteadoq/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/celesteadoq/celesteadoq/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 [![David's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=celesteadoq&bg_color=000000&color=e6122b&line=e6122b&point=d1cccc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
